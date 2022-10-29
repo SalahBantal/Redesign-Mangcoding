@@ -1,8 +1,10 @@
 module.exports = {
     theme: {
-      screens: {
-        'card': '588px',
-        'cardo': '662px'
+      extend: {
+        width: {
+          '588': 'card',
+          '662': 'cardo',
+        }
       }
     }
   }
