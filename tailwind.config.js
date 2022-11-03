@@ -4,6 +4,7 @@ module.exports = {
         width: {
           '588': 'card',
           '662': 'cardo',
+          '450': 'cardo3',
         }
       }
     }
